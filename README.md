@@ -25,5 +25,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-w
   <a href="https://www.linkedin.com/in/samuel-silva12" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![snake gif](https://github.com/SamSilva12/SamSilva12/blob/output/github-contribution-grid-snake.svg)
