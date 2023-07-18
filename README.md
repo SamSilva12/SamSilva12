@@ -2,7 +2,7 @@
 
 <div>
 <img heigt="180" text_color="#00A7D0" src="https://github-readme-stats.vercel.app/api?username=SamSilva12&show_icons=true&theme=transparent&include_all_commits=true"/>
-<img heigt="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSilva12&layout=compact&theme=transparent&langs_count=16"/>
+<br><img heigt="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSilva12&layout=compact&theme=transparent&langs_count=16"/>
 </div>
 
 <div style="display: inline_block"><br>
